@@ -45,7 +45,7 @@
 				<version>2.20.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\Yogita Subhedar\Desktop\new-workspace\MavenDemo\testng.xml</suiteXmlFile>
+						<suiteXmlFile>MavenDemo\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
